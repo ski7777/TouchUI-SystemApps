@@ -1,0 +1,7 @@
+[app]
+name: Clock
+category: Tools
+icon: icon.png
+desc: A simple clock app
+exec: clock.py
+managed: yes
